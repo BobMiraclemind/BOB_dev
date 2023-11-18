@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bibhaw Tirkey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm an enthusiastic Android Application Developer passionate about crafting high-quality, user-centric mobile applications. With a strong foundation in software development and a keen eye for detail, I thrive on turning innovative ideas into robust and user-friendly Android experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobmiraclemind&label=Profile%20views&color=0e75b6&style=flat" alt="bobmiraclemind" /> </p>
+
+- 🔭 I’m currently working on **Astrocure**
+
+- 🌱 I’m currently learning **ANDROID Jetpack Compose,React.js,Express.js,GraphQL**
+
+- 👯 I’m looking to collaborate on **GullyGoRide**
+
+- 🤝 I’m looking for help with **FurFriend**
+
+- 💬 Ask me about **Android Studio(JAVA/KOTLIN)**
 
 - 📫 How to reach me **miraclemind.bobdev5@gmail.com**
 
